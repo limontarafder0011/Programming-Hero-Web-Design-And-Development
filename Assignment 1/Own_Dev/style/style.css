@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url('../images/banner/banner1.png');
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.h_heading {
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 1010px;
+    top: 216px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+
+    /* Dark 01 */
+
+    color: #151414;
+}
+
+.h_des {
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 1050px;
+    top: 468px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+    text-align: right;
+
+    /* Dark 02 */
+
+    color: #444343;
+}
+
+.h_btn {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1380px;
+    top: 578px;
+    background: #F15B22;
+}
+
+.m_div1 {
+    /* position: absolute; */
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+
+}
+
+.m1_head {
+    /* position: absolute; */
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    /* Dark 01 */
+
+    color: #151414;
+}
+
+.m1_des {
+    /* position: absolute; */
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    /* Dark 01 */
+
+    color: #151414;
+}
+
+ul {
+    
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 862px;
+    top: 1416px;
+
+}
